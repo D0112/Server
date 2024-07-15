@@ -1,0 +1,72 @@
+[
+{
+  "directory": "/home/adminn/Desktop/project/HttpServer/Server_V2_test/build",
+  "command": "/usr/bin/c++  -I/home/adminn/Desktop/project/HttpServer/Server_V2_test/include -g -o CMakeFiles/Server.dir/main.cpp.o -c /home/adminn/Desktop/project/HttpServer/Server_V2_test/main.cpp",
+  "file": "/home/adminn/Desktop/project/HttpServer/Server_V2_test/main.cpp"
+},
+{
+  "directory": "/home/adminn/Desktop/project/HttpServer/Server_V2_test/build",
+  "command": "/usr/bin/c++  -I/home/adminn/Desktop/project/HttpServer/Server_V2_test/include -g -o CMakeFiles/Server.dir/src/Buffer.cpp.o -c /home/adminn/Desktop/project/HttpServer/Server_V2_test/src/Buffer.cpp",
+  "file": "/home/adminn/Desktop/project/HttpServer/Server_V2_test/src/Buffer.cpp"
+},
+{
+  "directory": "/home/adminn/Desktop/project/HttpServer/Server_V2_test/build",
+  "command": "/usr/bin/c++  -I/home/adminn/Desktop/project/HttpServer/Server_V2_test/include -g -o CMakeFiles/Server.dir/src/Channel.cpp.o -c /home/adminn/Desktop/project/HttpServer/Server_V2_test/src/Channel.cpp",
+  "file": "/home/adminn/Desktop/project/HttpServer/Server_V2_test/src/Channel.cpp"
+},
+{
+  "directory": "/home/adminn/Desktop/project/HttpServer/Server_V2_test/build",
+  "command": "/usr/bin/c++  -I/home/adminn/Desktop/project/HttpServer/Server_V2_test/include -g -o CMakeFiles/Server.dir/src/Dispatcher.cpp.o -c /home/adminn/Desktop/project/HttpServer/Server_V2_test/src/Dispatcher.cpp",
+  "file": "/home/adminn/Desktop/project/HttpServer/Server_V2_test/src/Dispatcher.cpp"
+},
+{
+  "directory": "/home/adminn/Desktop/project/HttpServer/Server_V2_test/build",
+  "command": "/usr/bin/c++  -I/home/adminn/Desktop/project/HttpServer/Server_V2_test/include -g -o CMakeFiles/Server.dir/src/EpollDispatcher.cpp.o -c /home/adminn/Desktop/project/HttpServer/Server_V2_test/src/EpollDispatcher.cpp",
+  "file": "/home/adminn/Desktop/project/HttpServer/Server_V2_test/src/EpollDispatcher.cpp"
+},
+{
+  "directory": "/home/adminn/Desktop/project/HttpServer/Server_V2_test/build",
+  "command": "/usr/bin/c++  -I/home/adminn/Desktop/project/HttpServer/Server_V2_test/include -g -o CMakeFiles/Server.dir/src/EventLoop.cpp.o -c /home/adminn/Desktop/project/HttpServer/Server_V2_test/src/EventLoop.cpp",
+  "file": "/home/adminn/Desktop/project/HttpServer/Server_V2_test/src/EventLoop.cpp"
+},
+{
+  "directory": "/home/adminn/Desktop/project/HttpServer/Server_V2_test/build",
+  "command": "/usr/bin/c++  -I/home/adminn/Desktop/project/HttpServer/Server_V2_test/include -g -o CMakeFiles/Server.dir/src/HttpRequest.cpp.o -c /home/adminn/Desktop/project/HttpServer/Server_V2_test/src/HttpRequest.cpp",
+  "file": "/home/adminn/Desktop/project/HttpServer/Server_V2_test/src/HttpRequest.cpp"
+},
+{
+  "directory": "/home/adminn/Desktop/project/HttpServer/Server_V2_test/build",
+  "command": "/usr/bin/c++  -I/home/adminn/Desktop/project/HttpServer/Server_V2_test/include -g -o CMakeFiles/Server.dir/src/HttpResponse.cpp.o -c /home/adminn/Desktop/project/HttpServer/Server_V2_test/src/HttpResponse.cpp",
+  "file": "/home/adminn/Desktop/project/HttpServer/Server_V2_test/src/HttpResponse.cpp"
+},
+{
+  "directory": "/home/adminn/Desktop/project/HttpServer/Server_V2_test/build",
+  "command": "/usr/bin/c++  -I/home/adminn/Desktop/project/HttpServer/Server_V2_test/include -g -o CMakeFiles/Server.dir/src/PollDispatcher.cpp.o -c /home/adminn/Desktop/project/HttpServer/Server_V2_test/src/PollDispatcher.cpp",
+  "file": "/home/adminn/Desktop/project/HttpServer/Server_V2_test/src/PollDispatcher.cpp"
+},
+{
+  "directory": "/home/adminn/Desktop/project/HttpServer/Server_V2_test/build",
+  "command": "/usr/bin/c++  -I/home/adminn/Desktop/project/HttpServer/Server_V2_test/include -g -o CMakeFiles/Server.dir/src/SelectDispatcher.cpp.o -c /home/adminn/Desktop/project/HttpServer/Server_V2_test/src/SelectDispatcher.cpp",
+  "file": "/home/adminn/Desktop/project/HttpServer/Server_V2_test/src/SelectDispatcher.cpp"
+},
+{
+  "directory": "/home/adminn/Desktop/project/HttpServer/Server_V2_test/build",
+  "command": "/usr/bin/c++  -I/home/adminn/Desktop/project/HttpServer/Server_V2_test/include -g -o CMakeFiles/Server.dir/src/TcpConnection.cpp.o -c /home/adminn/Desktop/project/HttpServer/Server_V2_test/src/TcpConnection.cpp",
+  "file": "/home/adminn/Desktop/project/HttpServer/Server_V2_test/src/TcpConnection.cpp"
+},
+{
+  "directory": "/home/adminn/Desktop/project/HttpServer/Server_V2_test/build",
+  "command": "/usr/bin/c++  -I/home/adminn/Desktop/project/HttpServer/Server_V2_test/include -g -o CMakeFiles/Server.dir/src/TcpServer.cpp.o -c /home/adminn/Desktop/project/HttpServer/Server_V2_test/src/TcpServer.cpp",
+  "file": "/home/adminn/Desktop/project/HttpServer/Server_V2_test/src/TcpServer.cpp"
+},
+{
+  "directory": "/home/adminn/Desktop/project/HttpServer/Server_V2_test/build",
+  "command": "/usr/bin/c++  -I/home/adminn/Desktop/project/HttpServer/Server_V2_test/include -g -o CMakeFiles/Server.dir/src/ThreadPool.cpp.o -c /home/adminn/Desktop/project/HttpServer/Server_V2_test/src/ThreadPool.cpp",
+  "file": "/home/adminn/Desktop/project/HttpServer/Server_V2_test/src/ThreadPool.cpp"
+},
+{
+  "directory": "/home/adminn/Desktop/project/HttpServer/Server_V2_test/build",
+  "command": "/usr/bin/c++  -I/home/adminn/Desktop/project/HttpServer/Server_V2_test/include -g -o CMakeFiles/Server.dir/src/ThreadWorker.cpp.o -c /home/adminn/Desktop/project/HttpServer/Server_V2_test/src/ThreadWorker.cpp",
+  "file": "/home/adminn/Desktop/project/HttpServer/Server_V2_test/src/ThreadWorker.cpp"
+}
+]
